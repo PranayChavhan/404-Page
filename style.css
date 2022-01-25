@@ -68,3 +68,12 @@ body{
       margin-top: 1rem;
   }
 }
+
+footer a{
+  text-decoration: none;
+  color: gray;
+  font-weight: 900;
+}
+footer p{
+  color: gray;
+}
